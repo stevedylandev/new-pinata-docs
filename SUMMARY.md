@@ -48,6 +48,12 @@
   * [Data Usage](pinata-api/data/data-usage.md)
   * [Query Files](pinata-api/data/query-files.md)
 
+## 🌊 Submarine
+
+* [What is Submarine?](submarine/what-is-submarine.md)
+* [Sharing Individual Files and Folders](submarine/sharing-individual-files-and-folders.md)
+* [Sharing Linkables](submarine/sharing-linkables.md)
+
 ## 🤫 PRIVATE FILES
 
 * [Introduction to Private Files](private-files/introduction-to-private-files/README.md)

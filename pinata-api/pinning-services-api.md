@@ -40,7 +40,7 @@ If you are running the IPFS desktop app, you can configure your pinning service 
 
 Select Pinata as the pinning service, and then configure with your secret access token (JWT):&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
 #### Configuring Pinata in the IPFS CLI
 
